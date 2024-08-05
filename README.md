@@ -1,8 +1,8 @@
-### Boas vindas ao meu perfil 💀
+### Boas vindas ao nosso perfil 🎊
 
 
-Meu nome é Miguel, e Meu amigo se chama Lucca
-Estamos see desenvolvendo na linguagem JavaScript☕
+Meu nome é Miguel, e meu amigo se chama Lucca
+Estamos se desenvolvendo na linguagem JavaScript☕
 Usamos esse espaço para compartilhar projetos desenvolvidos
 
 
